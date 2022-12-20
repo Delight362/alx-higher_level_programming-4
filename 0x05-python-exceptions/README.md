@@ -24,6 +24,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - What’s the purpose of catching exceptions
 - How to raise a builtin exception
 - When do we need to implement a clean-up action after an exception
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/070710952984e4d126e114405cefe83af2271ce8.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20221220%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20221220T012146Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=7adf99525c776eeaaa5804197f88afc85cf770602a72c8337575ca104267dda1)
 
 ![](https://files.realpython.com/media/try_except_else_finally.a7fac6c36c55.png)
 
