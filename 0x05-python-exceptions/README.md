@@ -4,11 +4,11 @@ Project Name
 
 Author's Details
 
-Name: Karlie Moyo
+Name: Oparaure Delight
 
-Email: karlieemoyo@gmail.com
+Email: oparauredu@gmail.com
 
-Tel: +27844775229
+Tel: +2349060318075
 
 Requirements
 Python Scripts
@@ -39,4 +39,4 @@ Learn what’s the difference between errors and exceptions. What are exceptions
 
 Collaborate:
 
-To collaborate, reach me through my email address karlieemoyo@gmail.com
+To collaborate, reach me through my email address oparauredu@gmail.com
