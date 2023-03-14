@@ -1,6 +1,5 @@
 #!/usr/bin/node
 const fs = require('fs');
-
 const fileA = process.argv[2];
 const fileB = process.argv[3];
 const fileC = process.argv[4];
@@ -15,7 +14,6 @@ fileC !== undefined
   const fileAContent = fs.readFileSync(fileA);
   const fileBContent = fs.readFileSync(fileB);
   const stream = fs.createWriteStream(fileC);
-
   stream.write(fileAContent);
   stream.write(fileBContent);
   stream.end();
