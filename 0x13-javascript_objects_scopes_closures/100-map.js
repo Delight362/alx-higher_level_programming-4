@@ -1,10 +1,7 @@
+able file 6 lines (5 sloc) 150 Bytes
 #!/usr/bin/node
-const list = require('./100-data.js').list;
-// const newlist = [];
 
-const newlist = list.map((num, index) => {
-  // newlist.push(num * index);
-  return (num * index);
-});
+const list = require('./100-data').list;
 console.log(list);
-console.log(newlist);
+const newList = list.map((x, index) => x * index);
+console.log(newList);
